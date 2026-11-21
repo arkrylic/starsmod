@@ -3,9 +3,13 @@
         "newborn": "kit",
         "kitten": "kit",
         "apprentice": "paw",
+        "warrior": "claw",
         "medicine cat apprentice": "paw",
         "mediator apprentice": "paw",
-        "leader": "star"
+        "mediator": "heart",
+        "deputy": "path",
+        "leader": "star",
+        "elder": "mind"
     },
 
   "normal_suffixes" : [
