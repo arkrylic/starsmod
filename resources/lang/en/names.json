@@ -2,14 +2,14 @@
     "special_suffixes": {
         "newborn": "kit",
         "kitten": "kit",
-        "apprentice": "paw",
-        "warrior": "claw",
-        "medicine cat apprentice": "paw",
-        "mediator apprentice": "paw",
-        "mediator": "heart",
-        "deputy": "path",
-        "leader": "star",
-        "elder": "mind"
+        "apprentice": "app",
+        "warrior": "war",
+        "medicine cat apprentice": "medapp",
+        "mediator apprentice": "atapp",
+        "mediator": "mediator",
+        "deputy": "dep",
+        "leader": "lead",
+        "elder": "eld"
     },
 
   "normal_suffixes" : [
